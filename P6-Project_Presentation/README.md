@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Fast Fit Converter Project Presentation.pdf](https://github.com/ToryJ8/liftoff-assignments/files/10231989/Fast.Fit.Converter.Project.Presentation.pdf)
